@@ -5,10 +5,10 @@
     
         $type = strtoupper($type);
     
-        $servername = "direitopenalanormal.com.br";
-        $username = "direitop_user";
-        $password = "Univ2011";
-        $database = "direitop_banco";
+        $servername = "#";
+        $username = "#";
+        $password = "#";
+        $database = "#";
         
         $conn = new mysqli($servername, $username, $password, $database);
     

@@ -1,2 +1,2 @@
-# digleane
+# Digleane
 Simple API framework for PHP
